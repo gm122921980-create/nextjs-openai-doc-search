@@ -321,13 +321,13 @@ vercel
 DATABASE_URL=postgresql://...
 STRIPE_SECRET_KEY=sk_live_xxx
 STRIPE_WEBHOOK_SECRET=whsec_xxx
-NEXT_PUBLIC_APP_URL=https://your-domain.com
+NEXT_PUBLIC_APP_URL=https://gubonlucidex5.com
 
 
 ---
 
 3. Stripe webhook
 
-https://your-domain.com/api/webhook/stripe
+https://gubonlucidex5.com/api/webhook/stripe
 
 
